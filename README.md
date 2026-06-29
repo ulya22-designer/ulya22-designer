@@ -1,94 +1,87 @@
-                                                               # Hi there, I'm Ulya Sara 👋
+<div align="center">
 
-### Undergraduate Informatics Engineering Student at Politeknik Negeri Jakarta
+# Hi there, I'm Ulya Sara 👋
 
-I'm an undergraduate Informatics Engineering student with a strong interest in technology and digital product development. I enjoy transforming ideas into functional and user-friendly applications while continuously improving my skills in software development and design.
+### 🎓 Undergraduate Informatics Engineering Student at Politeknik Negeri Jakarta
 
-Currently, I'm focusing on **Full-Stack Web Development**, **UI/UX Design**, and **Graphic Design** through academic projects, personal projects, and collaborative team experiences.
+**Aspiring Full-Stack Web Developer** • **UI/UX Design Enthusiast** • **Graphic Design Enthusiast**
 
----
+*"Always learning, always building, and always growing."*
 
-## Currently Learning
-
-* Full-Stack Web Development
-* React.js
-* Laravel
-* REST API Integration
-* UI/UX Design
-* Design Systems
-* Graphic Design
+</div>
 
 ---
 
-## Tech Stack
+## 👩‍💻 About Me
 
-### Frontend
+I'm an undergraduate Informatics Engineering student at **Politeknik Negeri Jakarta** with a passion for technology and digital product development.
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* Tailwind CSS
-* Bootstrap
-
-### Backend
-
-* PHP
-* Laravel
-* MySQL
-* Firebase
-
-### Design
-
-* Figma
-* Canva
-* Adobe Ilustrator
-* Adobe Photoshop
-
-### Tools
-
-* Git
-* GitHub
-* Visual Studio Code
-* Postman
+I enjoy building responsive web applications, designing intuitive user interfaces, and exploring modern technologies. Through academic, personal, and collaborative projects, I'm continuously improving both my technical and creative skills.
 
 ---
 
-## Projects
+## 🚀 Tech Stack
 
-Some projects I've worked on throughout my learning journey:
+<div align="center">
 
-* **My Portfolio** – Personal portfolio website built with React and Tailwind CSS.
-* **Stellar Todo App Web3** – A Web3-based Todo application exploring blockchain integration.
-* **PROJECT SPK NARA** – Decision Support System developed as a collaborative academic project.
-* **MindUp Academy** – Contributed as a Frontend Developer by improving responsive layouts, fixing UI issues, and collaborating in a development team.
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,react,tailwind,bootstrap,php,laravel,codeigniter,mysql,firebase,python,flutter,docker,linux,figma,git,github,vscode,postman,ps,ai" />
 
-## Current Goals
-
-* Strengthen my Full-Stack Development skills
-* Build scalable and user-friendly web applications
-* Improve UI/UX Design knowledge and design thinking
-* Expand my Graphic Design portfolio
-* Contribute to collaborative and open-source projects
+</div>
 
 ---
 
-## Soft Skills
+## 🎨 Creative Tools
 
-* Team Collaboration
-* Problem Solving
-* Communication
-* Adaptability
-* Time Management
-* Continuous Learning
+<div align="center">
 
----
+Adobe Photoshop • Adobe Illustrator • Adobe After Effects • Adobe Premiere Pro • Canva
 
-## Connect With Me
-
-* GitHub: **github.com/ulya22-designer**
-* Portfolio Website: *(Coming Soon)*
+</div>
 
 ---
 
-> *"Always learning, always building, and always improving."*
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ulya22-designer&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulya22-designer&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ulya22-designer&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ulya22-designer" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/ulyasra" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=ulya22-designer&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
