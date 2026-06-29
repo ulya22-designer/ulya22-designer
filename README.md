@@ -4,7 +4,7 @@
 
 ### 🎓 Undergraduate Informatics Engineering Student at Politeknik Negeri Jakarta
 
-**Full-Stack Web Developer** • **UI/UX Design Enthusiast** • **Graphic Design Enthusiast**
+**Full-Stack Web Developer** • **UI/UX Design** • **Graphic Design**
 
 *"Always learning, always building, and always growing."*
 
@@ -25,12 +25,6 @@ I enjoy building responsive web applications, designing intuitive user interface
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,cpp,php,python,react,flutter,laravel,codeigniter,tailwind,bootstrap,mysql,firebase,docker,linux,git,github,vscode,postman,figma,ps,ai" />
-
-<br><br>
-
-**Creative Tools**
-
-Adobe Photoshop • Adobe Illustrator • Adobe After Effects • Adobe Premiere Pro • Canva
 
 </div>
 
