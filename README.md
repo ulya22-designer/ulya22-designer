@@ -4,7 +4,7 @@
 
 ### 🎓 Undergraduate Informatics Engineering Student at Politeknik Negeri Jakarta
 
-**Aspiring Full-Stack Web Developer** • **UI/UX Design Enthusiast** • **Graphic Design Enthusiast**
+**Full-Stack Web Developer** • **UI/UX Design Enthusiast** • **Graphic Design Enthusiast**
 
 *"Always learning, always building, and always growing."*
 
