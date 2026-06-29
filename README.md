@@ -20,11 +20,17 @@ I enjoy building responsive web applications, designing intuitive user interface
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Languages & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,react,tailwind,bootstrap,php,laravel,codeigniter,mysql,firebase,python,flutter,docker,linux,figma,git,github,vscode,postman,ps,ai" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,php,python,react,flutter,laravel,codeigniter,tailwind,bootstrap,mysql,firebase,docker,linux,git,github,vscode,postman,figma,ps,ai" />
+
+<br><br>
+
+**Creative Tools**
+
+Adobe Photoshop • Adobe Illustrator • Adobe After Effects • Adobe Premiere Pro • Canva
 
 </div>
 
