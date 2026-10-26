@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Ulya Sara 👋
+# Hi, I'm Ulya Sara 👋
 
 ### 🎓 Undergraduate Informatics Engineering Student at Politeknik Negeri Jakarta
 
-**Full-Stack Web Developer** • **UI/UX Design** • **Graphic Design**
+**Full-Stack Web Developer** • **UI/UX Design** • **Graphic Design** 
 
 *"Always learning, always building, and always growing."*
 
